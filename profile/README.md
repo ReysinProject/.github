@@ -1,7 +1,3 @@
-Voici un exemple de **README** en anglais pour un framework React basé sur Vite avec l'architecture MVVM, sans mention de la containerisation :
-
----
-
 # React MVVM Framework
 
 This project is a framework built on [Vite](https://vitejs.dev/) for creating web applications following the **MVVM** (Model-View-ViewModel) architecture using **React**.
