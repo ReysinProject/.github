@@ -6,7 +6,7 @@
 
 This project is a framework for creating web applications following the **MVVM** (Model-View-ViewModel) architecture using **React**.
 
-![image](https://github.com/user-attachments/assets/7e82e4f4-15a1-4b5d-8b79-b7ad7b50b5fb)
+![image](work_scheme.png)
 
 
 ## Features
