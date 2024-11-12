@@ -1,4 +1,5 @@
-![logo](https://github.com/user-attachments/assets/6a939700-42a4-48e3-81cd-fd3c1af8b07d)
+![image](https://github.com/user-attachments/assets/d0648aa5-b95d-4cd7-83b7-f7456321c64b)
+
 
 ![Discord](https://img.shields.io/discord/1295357633347457024)
 
