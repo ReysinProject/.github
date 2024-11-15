@@ -1,18 +1,32 @@
 ![image](https://github.com/user-attachments/assets/d0648aa5-b95d-4cd7-83b7-f7456321c64b)
 
+<p align="center">
+  <br/>
+  <a href="http://reysin.fr/">Reysin</a> is a React Framework for a more structural web
+  <br/>
+  When structure and rigidity meet facility and efficiency
+  <br/><br/>
+</p>
 
 ![Discord](https://img.shields.io/discord/1295357633347457024)
 
-# React MVVM Framework
+### 📱 Declarative UI Binding
 
-This project is a framework for creating web applications following the **MVVM** (Model-View-ViewModel) architecture using **React**.
+- Automatic UI updates through reactive data binding
+- Seamless synchronization between View and ViewModel
+- Reduced boilerplate code for state management
+- Built-in error boundary handling for UI components
 
-![image](work_scheme.png)
+### 🔄 Two-Way Data Flow
 
+- Bidirectional data binding between View and ViewModel
+- Automatic state updates without manual event handling
+- Form handling with built-in validation support
+- Real-time UI updates with optimized performance
 
-## Features
+### 🏗 Clear Architecture Separation
 
-- **MVVM Architecture**: A clear separation of concerns between the model, view, and view model.
-- **Fast development** with [Vite](https://vitejs.dev/), providing instant server startup and optimized builds.
-- **Reactive Components**: Built with React to manage the user interface, with business logic encapsulated within the ViewModels.
-- **TypeScript support**: Ensuring a safer and more scalable development experience.
+- Distinct separation between business logic and UI components
+- Modular component structure for better code organization
+- Improved code reusability across components
+- Clear responsibilities for each architectural layer
