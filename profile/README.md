@@ -9,6 +9,11 @@
 </p>
 
 ![Discord](https://img.shields.io/discord/1295357633347457024)
+![GitHub contributors](https://img.shields.io/github/contributors/ReysinProject/reysin)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Reysinproject/reysin)
+![GitHub top language](https://img.shields.io/github/languages/top/ReysinProject/reysin)
+![GitHub top language](https://img.shields.io/github/languages/top/ReysinProject/documentation)
+![GitHub top language](https://img.shields.io/github/languages/top/ReysinProject/example)
 
 ### 📱 Declarative UI Binding
 
