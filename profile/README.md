@@ -7,5 +7,3 @@
   When structure and customisation meet facility and efficiency
   <br/><br/>
 </p>
-
-![Discord](https://img.shields.io/discord/1295357633347457024)
