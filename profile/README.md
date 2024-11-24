@@ -2,7 +2,7 @@
 
 <p align="center">
   <br/>
-  <a href="http://reysin.fr/">Reysin</a> is a group that aim to provide Front-end library to improve the developer experience.
+  <a href="http://reysin.fr/">Reysin</a> is a group that aim to provide library to improve the web developer developer experience.
   <br/>
   When structure and customisation meet facility and efficiency
   <br/><br/>
